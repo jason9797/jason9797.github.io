@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Jason li!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+{
+  "skill": {"back-end": {"main": "Django", "other": ["flask", "etc"]}, "front-end": {"base": ["html", "css", "js"], "used": ["react.js", "bootstrap", "etc"]}, "other": ["crawler", "auto-operate", "data-handle", "most database", "etc"] },
+  "hobby": ["game", "music", "running", "etc"],
+  "quote": "learn to love youself, then love the world!"
+}
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jason979708642@gmail.com](mailto:jason979708642@gmail.com)
